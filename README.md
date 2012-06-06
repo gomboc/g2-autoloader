@@ -17,7 +17,7 @@ Requirements
 Install
 -------
 
-G2 Tool should be installed using the PEAR Installer ([PHP Extension and Application Repository](http://pear.php.net/)). 
+G2 Autoloader should be installed using the PEAR Installer ([PHP Extension and Application Repository](http://pear.php.net/)). 
 
 The following two commands (which you may have to run as `root`) are all that is required to install package using the PEAR Installer:
 
