@@ -1,0 +1,13 @@
+<phpunit bootstrap="bootstrap.php" colors="true">
+
+	<testsuite name="G2 Autoloader Test Suite">
+		<directory>./library</directory>
+	</testsuite>
+    
+	<filter>
+		<whitelist>
+			<directory suffix=".php">../library/</directory>
+		</whitelist>
+	</filter>
+  
+</phpunit>
